@@ -2,9 +2,9 @@
 
 A small collection of helper functions to generate postgresql queries
 
-# Examples
+## Examples
 
-## Insert
+### Insert
 
 ```haskell
 {-# LANGUAGE OverloadedStrings #-}

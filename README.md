@@ -1,6 +1,9 @@
 # psql-helpers
 
-A small collection of helper functions to generate postgresql queries
+[![Build Status](https://travis-ci.org/agrafix/psql-helpers.svg)](https://travis-ci.org/agrafix/psql-helpers)
+[![Hackage Deps](https://img.shields.io/hackage-deps/v/psql-helpers.svg)](http://packdeps.haskellers.com/reverse/psql-helpers)
+
+A small collection of helper functions to generate PostgreSQL queries
 
 ## Examples
 
